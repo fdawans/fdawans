@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fdawans
 - 👀 I’m interested in data & business intelligence.
 - 🌱 I’m currently learning SQL, Power BI.
-- 💞️ I’m looking to collaborate on QMK keyboard features, Power BI tips & tricks.
+- 💞️ I’m looking to collaborate on QMK keyboard features, mouse-less navigation software, Power BI tips & tricks.
 - 📫 How to reach me : contact@floriandawans.com
 
 <!---

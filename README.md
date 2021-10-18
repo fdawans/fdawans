@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @fdawans
 - 👀 I’m interested in data & business intelligence.
-- 🌱 I have a strong knowledge in Excel, VBA, SQL and Power BI, and I am currently looking to improve my SQL, Power BI and Python skills.
+- ✨ I have a strong knowledge in Excel, VBA, SQL and Power BI
+- 🌱 I am currently looking to improve my SQL, Power BI and Python skills.
 - 💞️ I’m looking to collaborate on QMK keyboard features, mouse-less navigation software, Power BI tips & tricks.
 - 📫 How to reach me : contact@floriandawans.com
 
